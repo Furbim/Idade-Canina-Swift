@@ -43,9 +43,9 @@ struct ContentView: View {
             .keyboardType(.numberPad)
             .padding()
             .background(Color.white)
-            .cornerRadius(10)
+            .cornerRadius(5)
             .shadow(radius: 5)
-            .padding(.horizontal, 40)
+            .padding(.horizontal, 50)
             
             Button(action: calcularIdadeCachorro) {
                 Text("Calcular Idade Canina")

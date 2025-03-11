@@ -1,9 +1,8 @@
-//
+
 //  Aula1App.swift
 //  Aula1
-//
 //  Created by COTEMIG on 11/03/25.
-//
+
 
 import SwiftUI
 
